@@ -56,7 +56,7 @@ Die Anwendung dient als Demonstration zentraler objektorientierter Konzepte und 
 
 ---
 
-## 5. Use Cases
+## 4. Use Cases
 
 ### Mitglied anlegen
 - Benutzer gibt persönliche Daten ein
