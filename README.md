@@ -30,7 +30,7 @@ Die Anwendung dient als Demonstration zentraler objektorientierter Konzepte und 
     - `JahresAbo`
     - `Tagespass`
 - Kurse implementieren `Kurs`-Interface:
-    - `FitnessKurs`
+    - `Fitnesskurs`
     - `YogaKurs`
 - Implementierte Use Cases:
     - Mitglied anlegen

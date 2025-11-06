@@ -16,7 +16,6 @@ public abstract class Abo implements Serializable {
     public void kuendigen() { this.ende = LocalDate.now(); }
     public abstract String getSummary();
 
-    // Subclasses as static nested classes to keep file count low
     public static class MonatsAbo extends Abo {
         private final int monate;
         public MonatsAbo(int monate, double preis) {
